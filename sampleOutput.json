@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Alexis Petridis",
+    "title": "‘Ooh, yeah, you’re amazing!’ The wonder of Kate Bush – and 10 tracks to delight new listeners",
+    "description": "Thanks to Netflix’s Stranger Things, the 1985 classic Running Up That Hill is in the charts again, and a new generation are discovering the singer’s unique appealIt tells you a great deal that when Kate Bush issued a short statement on her website, last week,…",
+    "url": "https://amp.theguardian.com/music/2022/jun/07/ooh-yeah-youre-amazing-the-wonder-of-kate-bush-and-10-tracks-to-delight-new-listeners",
+    "urlToImage": "https://i.guim.co.uk/img/media/b20616be67a7e3b206496da0b995384802e9e733/0_62_4117_2471/master/4117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b293c4d05688b574fcb5e96a3cb81ba4",
+    "publishedAt": "2022-06-07T05:00:05Z",
+    "content": "It tells you a great deal that when Kate Bush issued a short statement on her website, last week, about the fact that her 1985 single Running Up That Hill had re-entered the charts after its use on t… [+10950 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Plans to Let Public Beta Testers Download HomePod Software for the First Time",
+    "description": "While Apple makes iOS, macOS, tvOS, and watchOS betas available to its public beta testing group, the HomePod software updates that are beta tested are limited to a select group of invite-only testers. That's set to change with the latest round of betas, as A…",
+    "url": "https://www.macrumors.com/2022/06/06/homepod-16-public-beta/",
+    "urlToImage": "https://images.macrumors.com/t/Ro3cMDT1G8CVGeXX6Q2_6Gb_3z0=/2000x/article-new/2022/06/apple-betas-ios-16-ventura-homepod-apple-tv.jpg",
+    "publishedAt": "2022-06-07T01:27:45Z",
+    "content": "While Apple makes iOS, macOS, tvOS, and watchOS betas available to its public beta testing group, the HomePod software updates that are beta tested are limited to a select group of invite-only tester… [+946 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "iOS 16 Adds Support for Nintendo Switch's Joy-Cons and Pro Controller",
+    "description": "While not advertised on Apple's website, it has been discovered that iOS 16 adds support for the Nintendo Switch's Joy-Cons and Pro Controller. The feature was highlighted on Twitter by Riley Testut, the developer behind iOS video game emulator Delta.\n\n\n\n\n\nIn…",
+    "url": "https://www.macrumors.com/2022/06/06/ios-16-supports-nintendo-joy-cons/",
+    "urlToImage": "https://images.macrumors.com/t/iXMATIp85-ALibN22_NUU7JAmPs=/1860x/article-new/2022/06/nintendo-joy-cons.jpg",
+    "publishedAt": "2022-06-07T01:18:21Z",
+    "content": "While not advertised on Apple's website, it has been discovered that iOS 16 adds support for the Nintendo Switch's Joy-Cons and Pro Controller. The feature was highlighted on Twitter by Riley Testut,… [+898 chars]"
+    }
+    
+    
+    ]
+    }
